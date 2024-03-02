@@ -28,5 +28,3 @@ while True:
           print("Yanlis input!")
   else:
       print(f"{f'{kullanici_input}.pdf'} mevcut değil.")
-
-  break
