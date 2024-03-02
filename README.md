@@ -2,6 +2,10 @@
 
 (Proje sadece Estü transkript dosyasıyla çalışmaktadır.)
 
+Bu projede python'ın PyPDF2 kütüphanesini kullanarak pdf dosyasından veri çekme işlemi üzerinde çalıştım.
+
+Kendimi geliştirmek için yaptığım bu projeyi alttaki adımları kullanarak kendinizde uygulayabilirsiniz.
+
 -Klasörün içine siteden aldığınız transkript dosyasını atın.
 
 -Attıktan sonra uygulama.cmd dosyasını çalıştırın.
